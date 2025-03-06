@@ -1,4 +1,4 @@
-# Predict-students-dropout-and-academic-success
+# Predict students dropout and academic success
 ### Introduction
 This project serves as a hands-on practice to explore data pre-processing, conduct exploratory data analysis, train machine learning models, and fine-tune them using randomized search. 
 
